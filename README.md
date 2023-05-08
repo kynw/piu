@@ -1,5 +1,7 @@
 The project is for muggle, is for me.
 
+[阅读中文版](README.zh.md)
+
 ---
 
 # Piu
