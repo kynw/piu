@@ -6,6 +6,8 @@ The project is for muggle, is for me.
 
 # Piu
 
+[![1]](https://twitter.com)
+
 Piu is an open-source password manager application that supports API integration, stream data encryption, and two-factor authentication (2FA).
 
 With Piu, users can securely store and manage their passwords in an encrypted format. The API support allows easy integration with other applications and systems to provide seamless password management capabilities. The stream data encryption feature ensures the security of data even during network transfer. Piu allows users to retrieve 2FA codes directly from the app, making it even more convenient for users.
@@ -28,3 +30,5 @@ $ git clone https://github.com/kyukw/piu.git \
     && make build \
     && make install
 ```
+
+[1]: https://img.shields.io/badge/Twitter-@kyukew-brightgreen?style=flat&logo=twitter

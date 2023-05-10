@@ -4,6 +4,8 @@ type cmd struct {
 	Name  string
 	Alias []string
 
+	Action Action
+
 	Options
 }
 
