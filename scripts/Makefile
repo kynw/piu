@@ -6,3 +6,6 @@ build:
 
 clean:
 	@rm -rf $(dir $(OUTPUT))
+
+get-golang:
+get-nodejs:

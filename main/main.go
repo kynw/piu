@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/gin-gonic/gin"
-	"github.com/kyukw/piu/pkg/cmd"
+	"github.com/kynisk/piu/pkg/cmd"
 )
 
 func must(err error) {

@@ -1,4 +1,4 @@
-module github.com/kyukw/piu
+module github.com/kynisk/piu
 
 go 1.18
 
