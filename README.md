@@ -6,7 +6,7 @@ The project is for muggle, is for me.
 
 # Piu
 
-[![1]](https://twitter.com)
+[![1]](https://twitter.com/kynkwang)
 
 Piu is an open-source password manager application that supports API integration, stream data encryption, and two-factor authentication (2FA).
 
@@ -23,7 +23,7 @@ Overall, Piu is a powerful and secure password management solution suitable for 
 ## Installation via Git (source code)
 
 ```shell
-$ git clone https://github.com/kyukw/piu.git \
+$ git clone https://github.com/kynisk/piu.git \
     && cd piu \
     && make get-golang \
     && make get-nodejs \
@@ -31,4 +31,4 @@ $ git clone https://github.com/kyukw/piu.git \
     && make install
 ```
 
-[1]: https://img.shields.io/badge/Twitter-@kyukew-brightgreen?style=flat&logo=twitter
+[1]: https://img.shields.io/badge/Twitter-@kynkwang-brightgreen?style=flat&logo=twitter
